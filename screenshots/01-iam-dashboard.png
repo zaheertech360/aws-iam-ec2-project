@@ -1,0 +1,7 @@
+aws-iam-ec2-project/
+│
+├── README.md
+├── index.html
+│
+└── screenshots/
+    └── 01-iam-dashboard.png
